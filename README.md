@@ -1,0 +1,1 @@
+# Statistical-and-Deep-Learning-Approaches-for-Individual-Carbon-Footprint-Calculation-in-India
